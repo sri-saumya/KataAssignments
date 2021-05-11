@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Taazaa_Assignment2/1.0.0": {
+        "runtime": {
+          "Taazaa_Assignment2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Taazaa_Assignment2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

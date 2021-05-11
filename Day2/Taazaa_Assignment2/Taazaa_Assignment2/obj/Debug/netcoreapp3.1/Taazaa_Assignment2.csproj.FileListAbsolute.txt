@@ -1,0 +1,26 @@
+C:\training\Taazaa_Assignment2\Taazaa_Assignment2\bin\Debug\netcoreapp3.1\Taazaa_Assignment2.exe
+C:\training\Taazaa_Assignment2\Taazaa_Assignment2\bin\Debug\netcoreapp3.1\Taazaa_Assignment2.deps.json
+C:\training\Taazaa_Assignment2\Taazaa_Assignment2\bin\Debug\netcoreapp3.1\Taazaa_Assignment2.runtimeconfig.json
+C:\training\Taazaa_Assignment2\Taazaa_Assignment2\bin\Debug\netcoreapp3.1\Taazaa_Assignment2.runtimeconfig.dev.json
+C:\training\Taazaa_Assignment2\Taazaa_Assignment2\bin\Debug\netcoreapp3.1\Taazaa_Assignment2.dll
+C:\training\Taazaa_Assignment2\Taazaa_Assignment2\bin\Debug\netcoreapp3.1\Taazaa_Assignment2.pdb
+C:\training\Taazaa_Assignment2\Taazaa_Assignment2\obj\Debug\netcoreapp3.1\Taazaa_Assignment2.csprojAssemblyReference.cache
+C:\training\Taazaa_Assignment2\Taazaa_Assignment2\obj\Debug\netcoreapp3.1\Taazaa_Assignment2.AssemblyInfoInputs.cache
+C:\training\Taazaa_Assignment2\Taazaa_Assignment2\obj\Debug\netcoreapp3.1\Taazaa_Assignment2.AssemblyInfo.cs
+C:\training\Taazaa_Assignment2\Taazaa_Assignment2\obj\Debug\netcoreapp3.1\Taazaa_Assignment2.csproj.CoreCompileInputs.cache
+C:\training\Taazaa_Assignment2\Taazaa_Assignment2\obj\Debug\netcoreapp3.1\Taazaa_Assignment2.dll
+C:\training\Taazaa_Assignment2\Taazaa_Assignment2\obj\Debug\netcoreapp3.1\Taazaa_Assignment2.pdb
+C:\training\Taazaa_Assignment2\Taazaa_Assignment2\obj\Debug\netcoreapp3.1\Taazaa_Assignment2.genruntimeconfig.cache
+C:\Users\lenovo\OneDrive - Taazaa Tech Pvt Ltd\Desktop\training\Taazaa_Assignment2\Taazaa_Assignment2\bin\Debug\netcoreapp3.1\Taazaa_Assignment2.exe
+C:\Users\lenovo\OneDrive - Taazaa Tech Pvt Ltd\Desktop\training\Taazaa_Assignment2\Taazaa_Assignment2\bin\Debug\netcoreapp3.1\Taazaa_Assignment2.deps.json
+C:\Users\lenovo\OneDrive - Taazaa Tech Pvt Ltd\Desktop\training\Taazaa_Assignment2\Taazaa_Assignment2\bin\Debug\netcoreapp3.1\Taazaa_Assignment2.runtimeconfig.json
+C:\Users\lenovo\OneDrive - Taazaa Tech Pvt Ltd\Desktop\training\Taazaa_Assignment2\Taazaa_Assignment2\bin\Debug\netcoreapp3.1\Taazaa_Assignment2.runtimeconfig.dev.json
+C:\Users\lenovo\OneDrive - Taazaa Tech Pvt Ltd\Desktop\training\Taazaa_Assignment2\Taazaa_Assignment2\bin\Debug\netcoreapp3.1\Taazaa_Assignment2.dll
+C:\Users\lenovo\OneDrive - Taazaa Tech Pvt Ltd\Desktop\training\Taazaa_Assignment2\Taazaa_Assignment2\bin\Debug\netcoreapp3.1\Taazaa_Assignment2.pdb
+C:\Users\lenovo\OneDrive - Taazaa Tech Pvt Ltd\Desktop\training\Taazaa_Assignment2\Taazaa_Assignment2\obj\Debug\netcoreapp3.1\Taazaa_Assignment2.csprojAssemblyReference.cache
+C:\Users\lenovo\OneDrive - Taazaa Tech Pvt Ltd\Desktop\training\Taazaa_Assignment2\Taazaa_Assignment2\obj\Debug\netcoreapp3.1\Taazaa_Assignment2.AssemblyInfoInputs.cache
+C:\Users\lenovo\OneDrive - Taazaa Tech Pvt Ltd\Desktop\training\Taazaa_Assignment2\Taazaa_Assignment2\obj\Debug\netcoreapp3.1\Taazaa_Assignment2.AssemblyInfo.cs
+C:\Users\lenovo\OneDrive - Taazaa Tech Pvt Ltd\Desktop\training\Taazaa_Assignment2\Taazaa_Assignment2\obj\Debug\netcoreapp3.1\Taazaa_Assignment2.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\OneDrive - Taazaa Tech Pvt Ltd\Desktop\training\Taazaa_Assignment2\Taazaa_Assignment2\obj\Debug\netcoreapp3.1\Taazaa_Assignment2.dll
+C:\Users\lenovo\OneDrive - Taazaa Tech Pvt Ltd\Desktop\training\Taazaa_Assignment2\Taazaa_Assignment2\obj\Debug\netcoreapp3.1\Taazaa_Assignment2.pdb
+C:\Users\lenovo\OneDrive - Taazaa Tech Pvt Ltd\Desktop\training\Taazaa_Assignment2\Taazaa_Assignment2\obj\Debug\netcoreapp3.1\Taazaa_Assignment2.genruntimeconfig.cache
